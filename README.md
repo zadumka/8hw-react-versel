@@ -1,7 +1,6 @@
 # React + Vite
-відсутній файд versel.json
-також в структурі не вірно вказаний шлях до файлів src/redux/auth/operations.js src/redux/contacts/operations.js.
-
+# Відсутній файд versel.json.  Також в структурі не вірно вказаний шлях до файлів src/redux/auth/operations.js src/redux/contacts/operations.js.
+# ДЗ повертається на доопрацювання студентові
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
